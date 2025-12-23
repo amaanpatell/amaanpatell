@@ -1,13 +1,17 @@
 <h1 ><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/> Hi there, I m Amaan Patel.</h1>
 <h3 > Full Stack Developer | GenAI Developer </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaanpatell&label=Profile%20views&color=0e75b6&style=flat" alt="amaan patel" /> </p>
+
 ---
 ###  About Me
+
 - 🏗️ **Building:** Currently working on **Moments:** [Moments](https://github.com/amaanpatell/moments)
 - 🌟 **My Best Work Till now:** [LeetLabs - Coding Platform](https://github.com/amaanpatell/leetlabs)
 - 🤖 **Exploring:** Creating **AI Agents** and their applications in Full-Stack development.
 - ✍️ **Tech Writing:** I write insightful articles on [Hashnode](https://hashnode.com/@amaanpatel).
 - 💡 **Ask me about:** **JavaScript, Typescript, Node, AI,**
+
 
 ---
 
